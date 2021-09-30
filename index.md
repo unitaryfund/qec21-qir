@@ -1,6 +1,9 @@
-# QEC21 Workshop: Progress and Challenges in Quantum Intermediate Representations
+---
+layout: post
+title: Progress and Challenges in Quantum Intermediate Representations
+---
 
-The 2021 quantum intermediate representations orkshop is hosted at IEEE Quantum Week, the IEEE International Conference on Quantum Computing and Engineering (QCE).
+The 2021 quantum intermediate representations workshop is hosted at IEEE Quantum Week, the IEEE International Conference on Quantum Computing and Engineering (QCE).
 
 [Confrence and workshop registration](https://qce.quantum.ieee.org/registration/registration-overview/)
 
