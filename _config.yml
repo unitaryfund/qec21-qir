@@ -51,7 +51,7 @@ minima:
 #  - index.md
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 
 plugins:
   - jekyll-feed
