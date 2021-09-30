@@ -24,7 +24,6 @@ We will highlight recent approaches, future directions, and novel designs throug
 - Itamar Sivan (Quantum Machines)
 - Ross Duncan (CQC)
 - Wim Lavrijsen (LBL)
-- Prakash Murali (Microsoft)
 - Will Zeng (Unitary Fund)
 - Blake Johnson (IBM)
 - Eric Holland (Keysight)
@@ -52,7 +51,7 @@ _Exactly how much knowledge of the electronic control system does the IR need to
 - Panel Discussion (50 min)
   - Ross Duncan (CQC)
   - Wim Lavrijsen (LBL)
-  - Prakash Murali (Microsoft) [Pending]
+  - TBC
 
 ### Break: 12:15 PM - 12:45 PM 
 
