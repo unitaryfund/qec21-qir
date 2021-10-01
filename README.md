@@ -31,7 +31,7 @@ We will highlight recent approaches, future directions, and novel designs throug
 - Thomas Haner (Microsoft)
 - Kesha Hietala (University of Maryland)
 - Benjamin Bichsel (ETH-Zurich)
-- Alan Gellar (Microsoft)
+- Alan Geller (Microsoft)
 - Yunong Shi (Amazon)
 
 ## Program
@@ -81,7 +81,7 @@ _At some point, QPUs will go beyond a single global register with some predefine
   - Kesha Hietala (University of Maryland)
 - Panel Discussion (50 min)
   - Benjamin Bichsel (ETH-Zurich)
-  - Alan Gellar (Microsoft)
+  - Alan Geller (Microsoft)
   - Yunong Shi (Amazon)
 
 ### Extra discussion time: 16:15 PM - 16:45 P
