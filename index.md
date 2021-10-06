@@ -96,7 +96,15 @@ _You can find a full or compact view of the complete [QCE21 Program](https://qce
 #### Thomas Alexander (IBM) and Lauren Capelutto (IBM)
 #### Itamar Sivan (Quantum Machines)
 #### Blake Johnson (IBM)
+
+### Quantum Intermediate Representations and Classical Control Flow
 #### Eric Holland (Keysight)
+Quantum computing continues to make great strides towards the ultimate goal of universal fault tolerant quantum computation. 
+However, as the field matures and expands there are open questions on how to leverage lessons learned from more than 80 years of classical computing success.
+In this talk I will present the challenges, opportunities, and questions facing the field over the coming years at the intersection of quantum intermediate representations (QIR) and classical control flow.
+For instance, as specialization continues to emerge, how do we maintain abstraction for reuse and intercompatibility for deployed quantum cloud systems as well as enable maintain flexibility and expressiveness for the underlying R&D at all levels of the quantum computing stack?
+The answer to these questions will heavily influence what and how is represented in a QIR as well as the interface to classical control flow.
+
 #### Thomas Haner (Microsoft)
 #### Kesha Hietala (University of Maryland)
 
