@@ -105,7 +105,13 @@ In this talk I will present the challenges, opportunities, and questions facing 
 For instance, as specialization continues to emerge, how do we maintain abstraction for reuse and intercompatibility for deployed quantum cloud systems as well as enable maintain flexibility and expressiveness for the underlying R&D at all levels of the quantum computing stack?
 The answer to these questions will heavily influence what and how is represented in a QIR as well as the interface to classical control flow.
 
+### Quantum IRs for optimization and resource estimation
 #### Thomas Haner (Microsoft)
+With an increasing number of quantum devices accessible through the cloud, several new representations for hybrid quantum-classical programs have recently been proposed.
+Furthermore, there have been recent advances on the classical side such as MLIR, which was introduced to facilitate implementing language- and domain-specific IRs.
+In this talk, I will highlight challenges in compiling quantum programs that may be tackled with such frameworks.
+Specifically, I will be focusing on optimization and resource estimation of quantum programs.
+
 #### Kesha Hietala (University of Maryland)
 
 ## Organizers
