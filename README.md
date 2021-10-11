@@ -2,7 +2,7 @@
 
 The 2021 quantum intermediate representations workshop is hosted at IEEE Quantum Week, the IEEE International Conference on Quantum Computing and Engineering (QCE).
 
-[Confrence and workshop registration](https://qce.quantum.ieee.org/registration/registration-overview/)
+[Conference and workshop registration](https://qce.quantum.ieee.org/registration/registration-overview/)
 
 The virtual workshop will be held online on Friday, Oct 22 10:45-16:45 Mountain Time (MDT) — UTC-6.
 
@@ -17,7 +17,6 @@ We will highlight recent approaches, future directions, and novel designs throug
 
 - Ken Brown (Duke)
 - Thomas Alexander (IBM)
-- Lauren Capelutto (IBM)
 - Itamar Sivan (Quantum Machines)
 - Ross Duncan (CQC)
 - Wim Lavrijsen (LBL)
