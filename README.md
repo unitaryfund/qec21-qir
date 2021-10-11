@@ -88,9 +88,13 @@ _At some point, QPUs will go beyond a single global register with some predefine
 
 _You can find a full or compact view of the complete [QCE21 Program](https://qce.quantum.ieee.org/workshops-program/) on their website._
 
-## Talk Abstracts [Coming soon!]
+## Talk Abstracts
 
-#### Thomas Alexander (IBM) and Lauren Capelutto (IBM)
+### Co-designing programming representations, runtimes, and control systems for layered control of quantum hardware
+#### Thomas Alexander (IBM)
+
+Current quantum computers consist of systems of heterogeneous equipment that we orchestrate to execute an input quantum program. Using a layered system of abstractions consisting of program binaries, a hardware abstraction layer, pulse, and quantum circuits we obtain a scalable framework for compiling and executing quantum programs across a configurable spectrum of quantum systems. In our talk, we will introduce the components of this framework and the lessons we have learned from deploying, maintaining, programming, and supporting quantum hardware for extended periods.
+
 #### Itamar Sivan (Quantum Machines)
 #### Blake Johnson (IBM)
 
@@ -104,13 +108,15 @@ The answer to these questions will heavily influence what and how is represented
 
 ### Quantum IRs for optimization and resource estimation
 #### Thomas Haner (Microsoft)
-
 With an increasing number of quantum devices accessible through the cloud, several new representations for hybrid quantum-classical programs have recently been proposed.
 Furthermore, there have been recent advances on the classical side such as MLIR, which was introduced to facilitate implementing language- and domain-specific IRs.
 In this talk, I will highlight challenges in compiling quantum programs that may be tackled with such frameworks.
 Specifically, I will be focusing on optimization and resource estimation of quantum programs.
 
+### Quantum Intermediate Representations for Formal Verification
 #### Kesha Hietala (University of Maryland)
+
+Formal verification is the process of mathematically proving that a design matches a specification. It can be used to provide guarantees about the behavior of software on all possible inputs, making it especially powerful in domains like quantum programming, where intermediate state collapse and hardware errors complicate standard software assurance techniques. At the University of Maryland, we have been working on formally verifying quantum algorithms and circuit optimizations. To facilitate this work, we designed an intermediate representation, SQIR, and gave it a formal semantics in the Coq proof assistant. We have verified the correctness of key quantum algorithms implemented in SQIR and state-of-the-art optimizations over SQIR programs. In this talk, I will present our prior and ongoing work on designing quantum intermediate representations suitable for formal verification.
 
 ## Organizers
 
