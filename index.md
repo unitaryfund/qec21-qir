@@ -50,7 +50,7 @@ _Exactly how much knowledge of the electronic control system does the IR need to
 - Panel Discussion (50 min)
   - Ross Duncan (CQC)
   - Wim Lavrijsen (LBL)
-  - TBC
+  - Prakash Murali (Microsoft)
 
 ### Break: 12:15 PM - 12:45 PM 
 
