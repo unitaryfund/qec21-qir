@@ -45,7 +45,7 @@ _Exactly how much knowledge of the electronic control system does the IR need to
  
 **Moderator: Ken Brown (Duke)**
 - Presentations (20 min each) 
-  - Thomas Alexander and Lauren Capelutto (IBM)
+  - Thomas Alexander (IBM)
   - Itamar Sivan (Quantum Machines)
 - Panel Discussion (50 min)
   - Ross Duncan (CQC)
