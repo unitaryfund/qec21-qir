@@ -94,7 +94,11 @@ _You can find a full or compact view of the complete [QCE21 Program](https://qce
 
 Current quantum computers consist of systems of heterogeneous equipment that we orchestrate to execute an input quantum program. Using a layered system of abstractions consisting of program binaries, a hardware abstraction layer, pulse, and quantum circuits we obtain a scalable framework for compiling and executing quantum programs across a configurable spectrum of quantum systems. In our talk, we will introduce the components of this framework and the lessons we have learned from deploying, maintaining, programming, and supporting quantum hardware for extended periods.
 
+### Challenges in the emerging IR ecosystem
 #### Itamar Sivan (Quantum Machines)
+
+Intermediate representations (IRs) are an essential element for a thriving ecosystem of programmers, programming languages and programming tools. The IR role is primarily to ease the introduction and compatibility of languages, compilers and processors. In a mature stack, this allows the formation of a healthy ecosystem in which migration across tools and languages is done with ease. However, IRs in an emerging stack may also pose a challenge since, if not defined well, the IR can add challenging constraints or conceal advanced capabilities from arriving at users' disposal. In this talk we will discuss these challenges in the emerging quantum computing ecosystem and propose exciting ways to face them.
+
 #### Blake Johnson (IBM)
 
 ### Quantum Intermediate Representations and Classical Control Flow
