@@ -99,7 +99,10 @@ Current quantum computers consist of systems of heterogeneous equipment that we 
 
 Intermediate representations (IRs) are an essential element for a thriving ecosystem of programmers, programming languages and programming tools. The IR role is primarily to ease the introduction and compatibility of languages, compilers and processors. In a mature stack, this allows the formation of a healthy ecosystem in which migration across tools and languages is done with ease. However, IRs in an emerging stack may also pose a challenge since, if not defined well, the IR can add challenging constraints or conceal advanced capabilities from arriving at users' disposal. In this talk we will discuss these challenges in the emerging quantum computing ecosystem and propose exciting ways to face them.
 
+### Synchronous execution in distributed control systems
 #### Blake Johnson (IBM)
+
+There are two predominant models of control system architectures found in the wild: centralized and distributed. We will take a brief look at each to discover why the distributed model is more common. While having distinct benefits, the distributed model also carries certain challenges in maintaining synchronous execution on such systems. We will look at a couple example circuits to discover some desired properties in systems built to define the microcode that implements quantum operations on such controllers.
 
 ### Quantum Intermediate Representations and Classical Control Flow
 #### Eric Holland (Keysight)
