@@ -35,6 +35,8 @@ We will highlight recent approaches, future directions, and novel designs throug
 - Benjamin Bichsel (ETH-Zurich)
 - Alan Geller (Microsoft)
 - Yunong Shi (Amazon)
+- Kalan Snyder (Rigetti)
+
 
 ## Program
 
@@ -50,7 +52,7 @@ _Exactly how much knowledge of the electronic control system does the IR need to
 - Panel Discussion (50 min)
   - Ross Duncan (CQC)
   - Wim Lavrijsen (LBL)
-  - Prakash Murali (Microsoft)
+  - Kalan Snyder (Rigetti)
 
 ### Break: 12:15 PM - 12:45 PM 
 
